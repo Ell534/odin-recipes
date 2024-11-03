@@ -1,0 +1,17 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    display: block;
+}
+
+.title {
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.link {
+    display: block;
+    padding: 8px;
+    margin: 8px;
+    font-size: 24px;
+}
